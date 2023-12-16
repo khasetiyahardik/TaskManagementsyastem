@@ -1,0 +1,1 @@
+INSERT INTO `tms`.`status_entity` (`id`,`status_name`) VALUES(1,'UnAttended');
